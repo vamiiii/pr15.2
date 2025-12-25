@@ -143,15 +143,11 @@ Mode="SecondaryMid">
 
 <Run Text="{Binding Category.Name}"/>
                                     </TextBlock>
-                                    <TextBlock>
+                                        <TextBlock>
 
 <Run Text="{Binding Description}"/>
-                                    </TextBlock>
-                                    <TextBlock>
-
-<Run Text="{Binding Brand.Name}"/>
-                                    </TextBlock>
-                                </StackPanel>
+                                        </TextBlock>
+                                    </StackPanel>
                                 <StackPanel Grid.Column="1">
                                     <TextBlock HorizontalAlignment="Right" >
 <Run Text="Цена:"/>
