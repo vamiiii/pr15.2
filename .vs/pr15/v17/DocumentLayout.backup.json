@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\wpf\\wpf15test\\pr15\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\brandpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\brandpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\categorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\categorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\brandpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\brandpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\categorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\categorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\editbrandpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -35,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|d:\\wpf\\wpf15test\\pr15\\pages\\addtagtoproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06FA4EB3-06EF-4982-97E9-731935FDB3E9}|pr15.csproj|solutionrelative:pages\\addtagtoproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -58,8 +82,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Service\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:43:15.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Service\\BrandService.cs",
+              "RelativeDocumentMoniker": "Service\\BrandService.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Service\\BrandService.cs",
+              "RelativeToolTip": "Service\\BrandService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:42:23.208Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -82,55 +132,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditCategoryPage.xaml",
-              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditCategoryPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\EditCategoryPage.xaml",
-              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditCategoryPage.xaml",
-              "RelativeToolTip": "Pages\\EditCategoryPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:28:54.321Z",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:43:00.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:42:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandPage.xaml.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\BrandPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\BrandPage.xaml.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\BrandPage.xaml.cs",
+              "RelativeToolTip": "Pages\\BrandPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:42:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryPage.xaml.cs",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\CategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CategoryPage.xaml.cs",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\CategoryPage.xaml.cs",
+              "RelativeToolTip": "Pages\\CategoryPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:41:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EditTagPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditTagPage.xaml",
               "RelativeDocumentMoniker": "Pages\\EditTagPage.xaml",
               "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditTagPage.xaml",
               "RelativeToolTip": "Pages\\EditTagPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:28:39.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T06:28:39.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "LogInPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\LogInPage.xaml",
               "RelativeDocumentMoniker": "Pages\\LogInPage.xaml",
               "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\LogInPage.xaml",
               "RelativeToolTip": "Pages\\LogInPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:28:30.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T06:28:30.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "EditBrandPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditBrandPage.xaml",
               "RelativeDocumentMoniker": "Pages\\EditBrandPage.xaml",
               "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditBrandPage.xaml",
               "RelativeToolTip": "Pages\\EditBrandPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:29:10.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T06:29:10.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CategoryPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\CategoryPage.xaml",
               "RelativeDocumentMoniker": "Pages\\CategoryPage.xaml",
@@ -142,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "BrandPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\BrandPage.xaml",
               "RelativeDocumentMoniker": "Pages\\BrandPage.xaml",
@@ -154,27 +241,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "TagPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\TagPage.xaml",
               "RelativeDocumentMoniker": "Pages\\TagPage.xaml",
               "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\TagPage.xaml",
               "RelativeToolTip": "Pages\\TagPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:27:50.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductPage.xaml",
-              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\ProductPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\ProductPage.xaml",
-              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\ProductPage.xaml",
-              "RelativeToolTip": "Pages\\ProductPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T06:28:04.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T06:27:50.295Z"
             },
             {
               "$type": "Document",
@@ -190,7 +264,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "EditCategoryPage.xaml",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditCategoryPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditCategoryPage.xaml",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\EditCategoryPage.xaml",
+              "RelativeToolTip": "Pages\\EditCategoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-25T06:28:54.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ProductPage.xaml",
+              "ToolTip": "D:\\wpf\\wpf15test\\pr15\\Pages\\ProductPage.xaml",
+              "RelativeToolTip": "Pages\\ProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-25T06:28:04.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -202,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -213,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "AddTagToProductPage.xaml",
               "DocumentMoniker": "D:\\wpf\\wpf15test\\pr15\\Pages\\AddTagToProductPage.xaml",
               "RelativeDocumentMoniker": "Pages\\AddTagToProductPage.xaml",

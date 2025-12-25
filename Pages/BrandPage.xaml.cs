@@ -45,16 +45,24 @@ namespace pr15.Pages
         {
             if (current != null)
             {
-                if (MessageBox.Show("Вы действительно хотите удалить группу?",
-                "Удалить группу?", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                if (current.Products != null && current.Products.Count > 0)
+                {
+                    MessageBox.Show("Нельзя удалить бренд, так как к нему привязаны товары.\n" +
+                                    "Сначала удалите товары или измените их бренд.",
+                                    "Ошибка удаления", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    return;
+                }
+
+                if (MessageBox.Show("Вы действительно хотите удалить этот бренд?",
+                    "Удаление бренда", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
                 {
                     service.Remove(current);
                 }
             }
             else
             {
-                MessageBox.Show("Выберите группу для удаления", "Выберите группу",
-                MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Выберите бренд для удаления", "Ошибка",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
         private void ListView_MouseDoubleClick(object sender, MouseButtonEventArgs e)

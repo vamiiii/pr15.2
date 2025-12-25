@@ -44,6 +44,14 @@ namespace pr15.Pages
         {
             if (current != null)
             {
+                if (current.Products != null && current.Products.Count > 0)
+                {
+                    MessageBox.Show("Нельзя удалить категорию, так как к ней привязаны товары.\n" +
+                                    "Сначала удалите товары или переместите их в другую категорию.",
+                                    "Ошибка удаления", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    return;
+                }
+
                 if (MessageBox.Show("Вы действительно хотите удалить группу?",
                 "Удалить группу?", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
                 {
